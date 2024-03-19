@@ -1,1 +1,2 @@
 Commit 1 on branch a
+Commit 2 on branch a
